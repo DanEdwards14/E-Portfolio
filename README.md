@@ -9,11 +9,11 @@
 
 ## Content
 
-🍌 **[Academic Resume](https://the-simplefolio.netlify.app/)**\
-🍌 **[UA Experience](https://the-simplefolio.netlify.app/)**\
-🍌 **[Work Experience](https://the-simplefolio.netlify.app/)**\
-🍌 **[My Clifton Strengths](https://the-simplefolio.netlify.app/)**\
-🍌 **[Personal Reflection](https://the-simplefolio.netlify.app/)**
+🍌 **[Academic Resume](https://github.com/DanEdwards14/E-Portfolio/blob/main/AcademicResume.pdf/)**\
+🍌 **[UA Experience](https://github.com/DanEdwards14/E-Portfolio/tree/main/UA%20Work/)**\
+🍌 **[Work Experience](https://github.com/DanEdwards14/E-Portfolio/tree/main/Occupational%20Experience/)**\
+🍌 **[My University Honors Contribution](https://barskiyali.wixsite.com/uh401-eportfolio)**\
+🍌 **[Personal Reflection](https://github.com/DanEdwards14/E-Portfolio/blob/main/UA%20Work/WhoAmIReflection.pdf/)**
 
 ---
 
@@ -27,7 +27,11 @@ I'm a soon to be Graduate of The University of Alabama. I'm working towards my B
 
 My main philosophy in life is that with a proper mindset anything is possible, and I bring this ideal into my personal, academic, and work life. In my free time I enjoy lifting weights at the gym, playing with my dog, working on digital art, and working on personal projects. Some stuff I'm most interested in is creating unique apps for phones and smart watches, Alexa scripts, and finding ways to add digital art into my projects. I hope to one day get my Master's in Embedded Systems, as the embedded systems labs were some of my favorite projects to tackle and where I owe most of my engineering and programming talent to.
 
+My Top Five Clifton Strengths are below:
 
+<h2 align="center">
+  <img src="https://github.com/DanEdwards14/E-Portfolio/blob/main/Photos/CliftonStrengths.PNG" alt="DanielEdwards" width="75%" height="75%">
+</h2>
 ---
 
 
@@ -35,3 +39,5 @@ My main philosophy in life is that with a proper mindset anything is possible, a
 
 **[LinkedIn](www.linkedin.com/in/daniel-edwards-5a0449180)**\
 **[Gmail](danieledwards00@gmail.com)**
+
+
