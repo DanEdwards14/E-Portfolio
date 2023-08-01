@@ -16,8 +16,6 @@ The inside of the panel with the testing rig hooked up to it\
 \
 ![image](https://github.com/DanEdwards14/E-Portfolio/assets/71192944/0b9ead14-c343-409c-bf7a-d76fe2886022)\
 Another panel I tested on my own in Georgia during a solo work trip\
-\
-\
 
 ![image](https://github.com/DanEdwards14/E-Portfolio/assets/71192944/ca56f6ab-130d-4472-8ad5-c078266471ba)\
 Cubicle Sweet Cubicle
