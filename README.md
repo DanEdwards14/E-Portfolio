@@ -38,7 +38,7 @@ My Top Five Clifton Strengths are Relator, Consistency, Focus, Harmony, and Comm
 ## Contact Me! 🗯️
 
 **[LinkedIn](www.linkedin.com/in/daniel-edwards-5a0449180)**\
-**[Gmail](danieledwards00@gmail.com)**
+**[Gmail](danieledwards00@gmail.com)**\
 **[Crimson Email](daedwards3@crimson.ua.edu)**
 
 
