@@ -14,6 +14,7 @@
 🍌 **[FPGA FrameBuffer](https://github.com/DanEdwards14/E-Portfolio/tree/main/UA%20Work/FPGA%20Framebuffer)**\
 🍌 **[My University Honors Contribution](https://barskiyali.wixsite.com/uh401-eportfolio)**\
 🍌 **[Personal Reflection](https://github.com/DanEdwards14/E-Portfolio/blob/main/UA%20Work/WhoAmIReflection.pdf/)**
+🍌 **[Co-op Photodump](https://github.com/DanEdwards14/E-Portfolio/tree/main/Occupational%20Experience)**
 
 ---
 
