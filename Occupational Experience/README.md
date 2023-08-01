@@ -1,1 +1,2 @@
-This folder contains descriptions and photos of my occupational experience at Revere Control Systems
+# 🦾 Revere Controls Systems Experience Photodump 🦾
+## Below are some photos of my experience working as a Co-Op Student at Revere Controls Systems!
