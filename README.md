@@ -9,15 +9,15 @@
 
 ## Content
 
-⚡️ **[Academic Resume](https://the-simplefolio.netlify.app/)**\
-⚡️ **[UA Experience](https://the-simplefolio.netlify.app/)**\
-⚡️ **[Work Experience](https://the-simplefolio.netlify.app/)**\
-⚡️ **[My Clifton Strengths](https://the-simplefolio.netlify.app/)**\
-⚡️ **[Personal Reflection](https://the-simplefolio.netlify.app/)**
+🍌 **[Academic Resume](https://the-simplefolio.netlify.app/)**\
+🍌 **[UA Experience](https://the-simplefolio.netlify.app/)**\
+🍌 **[Work Experience](https://the-simplefolio.netlify.app/)**\
+🍌 **[My Clifton Strengths](https://the-simplefolio.netlify.app/)**\
+🍌 **[Personal Reflection](https://the-simplefolio.netlify.app/)**
 
 ---
 
-## About Me ☝️
+## About Me 🦍
 
 <h2 align="center">
   <img src="https://github.com/DanEdwards14/E-Portfolio/blob/main/Photos/53058427233_5774e95799_o.jpg" alt="DanielEdwards" width="75%" height="75%">
@@ -31,9 +31,7 @@ My main philosophy in life is that with a proper mindset anything is possible, a
 ---
 
 
-## Contact Me! 🚀
+## Contact Me! 🗯️
 
 **[LinkedIn](www.linkedin.com/in/daniel-edwards-5a0449180)**\
-**[Gmail](danieledwards00@gmail.com)**\
-
-
+**[Gmail](danieledwards00@gmail.com)**
