@@ -27,7 +27,7 @@ I'm a soon to be Graduate of The University of Alabama. I'm working towards my B
 
 My main philosophy in life is that with a proper mindset anything is possible, and I bring this ideal into my personal, academic, and work life. In my free time I enjoy lifting weights at the gym, playing with my dog, working on digital art, and working on personal projects. Some stuff I'm most interested in is creating unique apps for phones and smart watches, Alexa scripts, and finding ways to add digital art into my projects. I hope to one day get my Master's in Embedded Systems, as the embedded systems labs were some of my favorite projects to tackle and where I owe most of my engineering and programming talent to.
 
-My Top Five Clifton Strengths are below:
+My Top Five Clifton Strengths are Relator, Consistency, Focus, Harmony, and Command:
 
 <h2 align="center">
   <img src="https://github.com/DanEdwards14/E-Portfolio/blob/main/Photos/CliftonStrengths.PNG" alt="DanielEdwards" width="75%" height="75%">
