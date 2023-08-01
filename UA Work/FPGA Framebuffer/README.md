@@ -1,4 +1,4 @@
-![image](https://github.com/DanEdwards14/E-Portfolio/assets/71192944/604d78a9-337e-4448-b58b-df5e8cd5bd52)## Senior Design Project Contribution
+## Senior Design Project Contribution
 # Project Description: Interface a Pixel Camera to a microcontroller using an FPGA Framebuffer to save and re-load data using hyperRAM
 # My Contribution: Team Captain and FPGA Code Developer
 
