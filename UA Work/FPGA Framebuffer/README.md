@@ -1,4 +1,4 @@
-## Senior Design Project Contribution
+## Senior Design Project (MIPI CSI CAMERA)
 # Project Description: Interface a Pixel Camera to a microcontroller using an FPGA Framebuffer to save and re-load data using hyperRAM
 # My Contribution: Team Captain and FPGA Code Developer
 
